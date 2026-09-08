@@ -1,0 +1,495 @@
+{
+  "settings": {
+    "logo": "/uploads/img-20260823-wa0009-mtsfwa3x1.jpg",
+    "logoDark": "",
+    "favicon": "",
+    "calendlyUrl": "",
+    "whatsapp": "2348000000000",
+    "whatsappMsg": "Hi JOSION, I'd like to learn more about your email marketing services.",
+    "youtubeId": "uVWmh3ikMnA",
+    "youtubeTitle": "Why your welcome flow is leaking money",
+    "email": "hello@josion.agency",
+    "social": {
+      "li": "",
+      "ig": "",
+      "x": ""
+    },
+    "privacyUrl": "",
+    "termsUrl": ""
+  },
+  "clients": [
+    "Aduna Skin",
+    "Northbound Coffee",
+    "Vellum Supply",
+    "Marrow & Co",
+    "Kikelomo",
+    "Halden Athletics",
+    "Pepper Grove",
+    "Studio Ninth",
+    "Baobab Home",
+    "Ferrous Cycles"
+  ],
+  "services": [
+    {
+      "t": "Lifecycle automation",
+      "d": "Welcome, browse abandon, cart recovery, post-purchase, winback and replenishment — built once, earning daily."
+    },
+    {
+      "t": "Campaign management",
+      "d": "A calendar that ships on time, with copy, design and segmentation handled end to end."
+    },
+    {
+      "t": "Email design & build",
+      "d": "Table-based templates that survive Outlook, respect dark mode, and load on a slow connection."
+    },
+    {
+      "t": "Copywriting",
+      "d": "Subject lines, preview text and body copy written for one reader, not a demographic."
+    },
+    {
+      "t": "Segmentation & data",
+      "d": "Behaviour, value and recency segments that stop you sending the same email to everybody."
+    },
+    {
+      "t": "Deliverability",
+      "d": "Authentication, warm-up, list hygiene and re-engagement so what you send reaches the inbox."
+    },
+    {
+      "t": "SMS & retention strategy",
+      "d": "The channel mix, cadence and offer architecture behind repeat purchase."
+    }
+  ],
+  "process": [
+    {
+      "n": "01",
+      "t": "Discover",
+      "d": "We audit your account, flows, list health and last ninety days of sends, then interview the people who talk to your customers."
+    },
+    {
+      "n": "02",
+      "t": "Strategize",
+      "d": "A lifecycle map: which flows exist, which are missing, what each one is worth, and the order we build them in."
+    },
+    {
+      "n": "03",
+      "t": "Create",
+      "d": "Copy, design and build. Every email is written for a specific moment in the customer relationship, not a template slot."
+    },
+    {
+      "n": "04",
+      "t": "Launch",
+      "d": "Staged rollout with deliverability monitoring, so volume ramps without putting your sending reputation at risk."
+    },
+    {
+      "n": "05",
+      "t": "Optimize",
+      "d": "Subject lines, offers, timing and segments tested against revenue per recipient — never against opens alone."
+    },
+    {
+      "n": "06",
+      "t": "Grow",
+      "d": "Monthly reporting, a rolling campaign calendar, and new flows as the catalogue and customer base change."
+    }
+  ],
+  "testimonials": [
+    {
+      "q": "They rebuilt our welcome flow in the first fortnight and it out-earned our entire paid social budget by month three. We stopped arguing about attribution after that.",
+      "n": "Placeholder Name",
+      "r": "Head of Growth, DTC skincare brand"
+    },
+    {
+      "q": "The reporting alone was worth it. For the first time we could say which email made which sale, and plan the next quarter around something other than a hunch.",
+      "n": "Placeholder Name",
+      "r": "Founder, specialty coffee roaster"
+    },
+    {
+      "q": "We had 40,000 subscribers doing nothing. JOSION segmented the list, cleaned it, and turned the quiet half into our best repeat-purchase cohort.",
+      "n": "Placeholder Name",
+      "r": "Ecommerce Manager, home goods"
+    }
+  ],
+  "emails": [
+    {
+      "id": "welcome-series-1",
+      "cat": "Welcome series",
+      "subject": "You're in. Here's where to start.",
+      "desc": "Email one of five. Sets expectations, tells the brand story, and earns the second open.",
+      "image": "",
+      "mobileImage": "",
+      "brand": "ADUNA SKIN",
+      "hero": [
+        "#0A3FA8",
+        "#1264FF"
+      ],
+      "h": "Start with the two things that matter",
+      "sub": "Cleanse. Protect. Everything else is optional.",
+      "bh": "Built for your skin barrier",
+      "bp": "Ninety percent of results come from two steps done consistently. We made both, and nothing you have to think about.",
+      "cta": "Shop the essentials",
+      "prods": [
+        [
+          "Barrier Cleanser",
+          "₦18,500"
+        ],
+        [
+          "Daily Shield SPF",
+          "₦24,000"
+        ]
+      ],
+      "stats": [
+        [
+          "62%",
+          "Open rate"
+        ],
+        [
+          "11.4%",
+          "Click rate"
+        ]
+      ]
+    },
+    {
+      "id": "abandoned-cart-2",
+      "cat": "Abandoned cart",
+      "subject": "Still thinking it over?",
+      "desc": "Second touch in a three-email recovery sequence. Objection handling, no discount.",
+      "image": "",
+      "mobileImage": "",
+      "brand": "HALDEN ATHLETICS",
+      "hero": [
+        "#08306B",
+        "#1264FF"
+      ],
+      "h": "Your cart is holding",
+      "sub": "Two items, reserved for 24 hours.",
+      "bh": "The three questions we get most",
+      "bp": "Sizing runs true. Returns are free for thirty days. And yes, it survives the wash — we tested it two hundred times.",
+      "cta": "Finish checkout",
+      "prods": [
+        [
+          "Merino Base Layer",
+          "₦42,000"
+        ],
+        [
+          "Trail Short 5\"",
+          "₦29,500"
+        ]
+      ],
+      "stats": [
+        [
+          "9.8%",
+          "Recovery rate"
+        ],
+        [
+          "3.1×",
+          "ROAS"
+        ]
+      ]
+    },
+    {
+      "id": "product-launch-3",
+      "cat": "Product launch",
+      "subject": "The one you asked for is here",
+      "desc": "Segmented to waitlist first, then browsers, then the full list 48 hours later.",
+      "image": "",
+      "mobileImage": "",
+      "brand": "VELLUM SUPPLY",
+      "hero": [
+        "#0A3FA8",
+        "#4E9CFF"
+      ],
+      "h": "The refill system, finally",
+      "sub": "One bottle. Twelve months. No plastic.",
+      "bh": "Why it took eighteen months",
+      "bp": "We would not ship a refill that leaked, and the first four prototypes did. This one does not.",
+      "cta": "Reserve yours",
+      "prods": [
+        [
+          "Starter Kit",
+          "₦36,000"
+        ],
+        [
+          "Refill Trio",
+          "₦14,500"
+        ]
+      ],
+      "stats": [
+        [
+          "31%",
+          "Of launch revenue"
+        ],
+        [
+          "4,900",
+          "Units week one"
+        ]
+      ]
+    },
+    {
+      "id": "newsletter-4",
+      "cat": "Newsletter",
+      "subject": "Notes from the roastery, no. 41",
+      "desc": "Weekly editorial. Low sell, high open — the reason the promotional sends still land.",
+      "image": "",
+      "mobileImage": "",
+      "brand": "NORTHBOUND",
+      "hero": [
+        "#062A6E",
+        "#2E7BFF"
+      ],
+      "h": "What altitude actually does to a bean",
+      "sub": "Issue 41 · Four minutes",
+      "bh": "This week on the cupping table",
+      "bp": "A washed Yirgacheffe that tastes like it has been lit from behind, and an honest note on the lot we got wrong.",
+      "cta": "Read the issue",
+      "prods": [],
+      "stats": [
+        [
+          "48%",
+          "Open rate"
+        ],
+        [
+          "0.3%",
+          "Unsubscribe"
+        ]
+      ]
+    },
+    {
+      "id": "winback-5",
+      "cat": "Winback",
+      "subject": "It's been a while, and that's fine",
+      "desc": "Sent at day 180 of inactivity. Sunset path for anyone who does not engage.",
+      "image": "",
+      "mobileImage": "",
+      "brand": "MARROW & CO",
+      "hero": [
+        "#0B3A96",
+        "#1264FF"
+      ],
+      "h": "Still here when you need us",
+      "sub": "A lot has changed since your last order.",
+      "bh": "Three things that are new",
+      "bp": "A smaller size, a better price on the one you bought last time, and delivery that no longer takes a week.",
+      "cta": "See what changed",
+      "prods": [
+        [
+          "Everyday Pan",
+          "₦58,000"
+        ],
+        [
+          "Care Kit",
+          "₦12,000"
+        ]
+      ],
+      "stats": [
+        [
+          "14%",
+          "Reactivated"
+        ],
+        [
+          "₦4.2m",
+          "Recovered"
+        ]
+      ]
+    },
+    {
+      "id": "post-purchase-6",
+      "cat": "Post-purchase",
+      "subject": "Your order is on its way — and how to use it",
+      "desc": "Ships with the dispatch notice. Reduces support tickets and sets up the replenishment flow.",
+      "image": "",
+      "mobileImage": "",
+      "brand": "PEPPER GROVE",
+      "hero": [
+        "#0A3FA8",
+        "#5AA4FF"
+      ],
+      "h": "It arrives Thursday",
+      "sub": "Here is how to get it right the first time.",
+      "bh": "Three minutes of prep",
+      "bp": "Rinse, dry properly, and store it away from the window. Do that and it will outlast the pan you already own.",
+      "cta": "Read the guide",
+      "prods": [],
+      "stats": [
+        [
+          "71%",
+          "Open rate"
+        ],
+        [
+          "-22%",
+          "Support tickets"
+        ]
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "aduna",
+      "client": "Aduna Skin",
+      "cat": "Skincare · Lifecycle rebuild",
+      "title": "A welcome flow that outgrew the ad account",
+      "art": "flow",
+      "metric": "+312%",
+      "metricLabel": "Email-attributed revenue",
+      "overview": "A four-year-old skincare brand with 63,000 subscribers, one welcome email and a monthly newsletter. Everything else was paid acquisition.",
+      "challenge": "Rising CAC had squeezed margin to the point where growth was costing more than it returned. The list was the largest untouched asset in the business, and nobody owned it.",
+      "strategy": "We rebuilt the lifecycle from zero: a five-part welcome series segmented by skin concern, browse and cart recovery, a post-purchase education track, and a replenishment trigger tied to product size. Copy was rewritten around the barrier-first philosophy the founder actually talks about.",
+      "results": [
+        {
+          "v": "+312%",
+          "l": "Email revenue"
+        },
+        {
+          "v": "38%",
+          "l": "Of total revenue"
+        },
+        {
+          "v": "9.8%",
+          "l": "Cart recovery"
+        },
+        {
+          "v": "62%",
+          "l": "Welcome open rate"
+        }
+      ],
+      "image": "",
+      "beforeImage": "",
+      "afterImage": "",
+      "emailRef": "welcome-series-1"
+    },
+    {
+      "id": "halden",
+      "client": "Halden Athletics",
+      "cat": "Apparel · Cart recovery",
+      "title": "Recovering the checkout, without discounting it",
+      "art": "bars",
+      "metric": "9.8%",
+      "metricLabel": "Cart recovery rate",
+      "overview": "A technical apparel brand losing four in five carts and papering over it with a standing 15% recovery code.",
+      "challenge": "The discount had trained customers to abandon deliberately. Recovery revenue looked healthy while average order value quietly fell for three straight quarters.",
+      "strategy": "We killed the automatic code and replaced it with objection handling — sizing, returns, durability — in a three-email sequence timed to one hour, one day and three days. The discount survives only in the final email, and only for first-time buyers.",
+      "results": [
+        {
+          "v": "9.8%",
+          "l": "Recovery rate"
+        },
+        {
+          "v": "+18%",
+          "l": "Average order value"
+        },
+        {
+          "v": "3.1×",
+          "l": "Return on retention spend"
+        },
+        {
+          "v": "-60%",
+          "l": "Discount exposure"
+        }
+      ],
+      "image": "",
+      "beforeImage": "",
+      "afterImage": "",
+      "emailRef": "abandoned-cart-2"
+    },
+    {
+      "id": "vellum",
+      "client": "Vellum Supply",
+      "cat": "Home · Product launch",
+      "title": "A launch that sold out before the ads went live",
+      "art": "wave",
+      "metric": "4,900",
+      "metricLabel": "Units sold in week one",
+      "overview": "An eighteen-month product development cycle with one shot at a launch, and a list that had never been segmented.",
+      "challenge": "Sending one announcement to everybody would have burned the most engaged buyers on a generic email and buried the rest in an inbox they never open.",
+      "strategy": "Three waves. Waitlist first with founder-written context and no discount, then recent browsers with a comparison against the old product, then the full list with social proof from the first 48 hours. Suppression rules stopped anyone receiving two.",
+      "results": [
+        {
+          "v": "4,900",
+          "l": "Units week one"
+        },
+        {
+          "v": "31%",
+          "l": "Of launch revenue"
+        },
+        {
+          "v": "0.2%",
+          "l": "Unsubscribe rate"
+        },
+        {
+          "v": "2.4×",
+          "l": "Waitlist conversion"
+        }
+      ],
+      "image": "",
+      "beforeImage": "",
+      "afterImage": "",
+      "emailRef": "product-launch-3"
+    },
+    {
+      "id": "marrow",
+      "client": "Marrow & Co",
+      "cat": "Cookware · Winback",
+      "title": "Waking 40,000 subscribers who had stopped listening",
+      "art": "rings",
+      "metric": "₦4.2m",
+      "metricLabel": "Recovered in 90 days",
+      "overview": "Half the list had not opened an email in over a year, and it was dragging deliverability down for the half that had.",
+      "challenge": "Sending more to a dormant list was making things worse. Inbox placement had slipped far enough that even engaged subscribers were landing in Promotions.",
+      "strategy": "Authentication and list hygiene first, then a three-email winback at day 180 with a genuine reason to return rather than a coupon. Anyone still silent moved to a sunset path and off the active list entirely.",
+      "results": [
+        {
+          "v": "14%",
+          "l": "Reactivated"
+        },
+        {
+          "v": "₦4.2m",
+          "l": "Recovered revenue"
+        },
+        {
+          "v": "+21pt",
+          "l": "Inbox placement"
+        },
+        {
+          "v": "-38%",
+          "l": "List size, higher revenue"
+        }
+      ],
+      "image": "",
+      "beforeImage": "",
+      "afterImage": "",
+      "emailRef": "winback-5"
+    },
+    {
+      "id": "northbound",
+      "client": "Northbound Coffee",
+      "cat": "Coffee · Editorial retention",
+      "title": "An editorial newsletter that pays for the shop",
+      "art": "grid",
+      "metric": "48%",
+      "metricLabel": "Sustained open rate",
+      "overview": "A specialty roaster whose promotional emails were being ignored because they were the only emails being sent.",
+      "challenge": "Every send asked for money. Engagement fell each month, and the brand had no way to talk to customers between purchases.",
+      "strategy": "We built a weekly editorial issue — origin notes, cupping results, the occasional admission of a bad lot — with a single quiet product link. Promotional sends now go to a list that already wants to hear from the brand.",
+      "results": [
+        {
+          "v": "48%",
+          "l": "Open rate"
+        },
+        {
+          "v": "0.3%",
+          "l": "Unsubscribe"
+        },
+        {
+          "v": "+2.1×",
+          "l": "Repeat purchase rate"
+        },
+        {
+          "v": "+64%",
+          "l": "Promo click rate"
+        }
+      ],
+      "image": "",
+      "beforeImage": "",
+      "afterImage": "",
+      "emailRef": "newsletter-4"
+    }
+  ]
+}
